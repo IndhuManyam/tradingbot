@@ -1,0 +1,2 @@
+# tradingbot
+first version
